@@ -21,6 +21,8 @@ Es (line 15): Controls the elasticity of the matrix.
 
 gm (line 18): Controls the viscosity of the tissue.
 
+poro_phi (line 9): Controls the fraction of passive beads (Degree of porosity).
+
 Sample Usage:
 
 The provided sample parameters in para.in are configured to simulate a branching tissue growing within a 30% porous matrix.
